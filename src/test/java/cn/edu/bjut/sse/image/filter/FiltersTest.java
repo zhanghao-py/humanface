@@ -1,4 +1,4 @@
-package cn.edu.bjut.sse.face.recognizor;
+package cn.edu.bjut.sse.image.filter;
 
 import java.awt.image.BufferedImage;
 import java.io.FileInputStream;
@@ -10,10 +10,10 @@ import javax.imageio.ImageIO;
 import org.apache.log4j.Logger;
 import org.junit.Test;
 
-import cn.edu.bjut.sse.image.basic.filter.GrayFilter;
-import cn.edu.bjut.sse.image.basic.filter.HistogramEFilter;
+import cn.edu.bjut.sse.image.filter.GrayFilter;
+import cn.edu.bjut.sse.image.filter.HistogramEFilter;
 
-public class FaceTest {
+public class FiltersTest {
 
 	private Logger logger = Logger.getLogger(getClass());
 	

@@ -1,4 +1,4 @@
-package cn.edu.bjut.sse.image.basic.filter;
+package cn.edu.bjut.sse.image.filter;
 
 import java.awt.image.BufferedImage;
 
